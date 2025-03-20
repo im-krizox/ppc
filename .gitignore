@@ -2,3 +2,4 @@
 **/.ipynb_checkpoints
 **/txn*.csv
 **/.DS_Store
+**/__pycache__

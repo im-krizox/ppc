@@ -1,0 +1,1 @@
+gcloud functions deploy pokemon --gen2 --runtime python39 --trigger-http --allow-unauthenticated --service-account <SERVICE_ACCOUNT_EMAIL> --memory 256MB --max-instances 1 --project <PROJECT_ID> --cpu 1 --region <REGION>
