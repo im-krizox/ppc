@@ -1,4 +1,4 @@
->[!faq]Que el estudiante aplique y diferencie los paradigmas de programación paralela, concurrente y asíncrona mediante la simulación de un sistema realista que requiere procesamiento distribuido de tareas en distintos tiempos y recursos.
+>[!faq] Que el estudiante aplique y diferencie los paradigmas de programación paralela, concurrente y asíncrona mediante la simulación de un sistema realista que requiere procesamiento distribuido de tareas en distintos tiempos y recursos.
 
 ## Definición
 
