@@ -1,4 +1,4 @@
->[!faq] Aplicar los conceptos fundamentales de Spark (RDDs, DataFrames, transformaciones y acciones) para realizar un análisis distribuido de datos reales o semi-reales sobre movilidad urbana.
+>[!INFO] Aplicar los conceptos fundamentales de Spark (RDDs, DataFrames, transformaciones y acciones) para realizar un análisis distribuido de datos reales o semi-reales sobre movilidad urbana.
 
 ## Definición
 
