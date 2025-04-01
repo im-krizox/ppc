@@ -36,7 +36,6 @@ Código fuente completo en repositorio con README.
 
 Se permite usar IA como asistente puntual (por ejemplo, resolver errores, sugerencias de diseño), lo cual debe documentarse en el informe:
 
-
 ### Forma de evaluación
 
 | Criterio | Ponderación |
